@@ -1,0 +1,14 @@
+.dark {
+    background-color: rgba(0, 0, 0, 0.3);
+    transition: all .3s;
+}
+
+.light {
+    background-color: white;
+    transition: all .3s;
+}
+
+.peru {
+    background-color: peru;
+    transition: all .3s;
+}
